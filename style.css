@@ -1,0 +1,47 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+
+#image {
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+.W_box {
+  display: inline-block;
+  background-color: white;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 600px;
+  margin-right:100px;
+  margin-bottom: auto;
+  border-radius: 25px;
+  padding: 20px;
+}
+.card{
+  height:400px;
+width:300px;
+}
+h5 {
+  text-align: center;
+  width: fit-content;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+  margin:10px;
+  width: fit-content;
+  font-weight: 400, 700;
+  font-size: 15px;
+}
+img{
+  height:190px;
+  width:300px;
+    border-radius: 15px;
+}
